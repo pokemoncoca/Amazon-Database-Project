@@ -4,10 +4,6 @@
 This project models a relational database inspired by Amazon’s e-commerce operations.  
 It covers critical entities such as **Customers, Orders, Products, Payments, Shipments, Employees, and Third-Party Sellers**, enabling data integrity and business insights.
 
-## 📐 Entity-Relationship Diagram (ERD)
-
-![Amazon ERD](./ERD.png)
-
 ## Repository Contents
 - `Amazon_Tables.sql` → Complete schema with `CREATE TABLE` statements.
 - `Project_Amazon.pdf` → Entity-Relationship Diagram (ERD) and table definitions.
